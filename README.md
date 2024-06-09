@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-tac-toe
 
 A tic-tac-toe game in the terminal.
 

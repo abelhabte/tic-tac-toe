@@ -6,6 +6,8 @@
 * Created a user-friendly interface with clear instructions and prompts, enhancing the overall player experience.
 * Made to understand basic Python scripting.
 
+---
+
 How each position entry is described.
 
 | 1,1 | 1,2 | 1,3 |
